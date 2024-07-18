@@ -1,7 +1,7 @@
 # Microsoft Teams gateway for Amazon Q Business
 | :zap: If you created a new Amazon Q Business application on or after April 30th, 2024, you can now set up a Microsoft Teams gateway using the updated instructions provided below. These new Amazon Q Business applications are integrated with IAM Identity Center. The CloudFormation (CFN) template and the necessary steps have been updated to accommodate the setup of the Teams gateway for new applications.
 |-----------------------------------------|
-
+ 
 **Note:** The instructions provided in this guide are specific to Okta, but they should also work for other OIDC 2.0 compliant Identity Providers (IdPs) with minor adjustments.
 
 
